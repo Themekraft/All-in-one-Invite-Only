@@ -2,9 +2,9 @@
 Contributors: svenl77, gfirem, marin25089
 Tags: registration, invite only, invite codes
 Requires at least: 4.9
-Tested up to: 6.4.1
+Tested up to: 6.6
 Requires PHP: 5.3
-Stable tag: 1.1.14
+Stable tag: 1.1.15
 License: GPL 3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -82,6 +82,10 @@ Have fun!
 6. eMail Form
 
 == Changelog ==
+= 1.1.15 - 10 Jul 2024 =
+* Updated Freemius SDK.
+* Tested up to WordPress 6.6
+
 = 1.1.14 - 16 Nov 2023 =
 * Updated Freemius SDK.
 * Tested up to WordPress 6.4.1
